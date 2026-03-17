@@ -2,6 +2,7 @@
 @import "global/fonts.css";
 @import "global/reboot.css";
 @import "global/container.css";
+@import "global/visually-hidden.css";
 
 /* Blocks */
 @import "blocks/header.css";
